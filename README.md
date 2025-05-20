@@ -34,12 +34,7 @@
 ### 🛠 Tecnologías que uso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26" height="150"
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6" height="150"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E" height="150"/>
-  <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=339933" height="150"/>
-  <img src="https://img.shields.io/badge/Electron-ffffff?style=flat&logo=electron&logoColor=47848F" height="150"/>
-  <img src="https://img.shields.io/badge/Sass-ffffff?style=flat&logo=sass&logoColor=CC6699" height="150"/>
+  (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <!-- Separador -->
