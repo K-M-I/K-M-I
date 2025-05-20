@@ -39,8 +39,7 @@
   <img src="https://img.shields.io/badge/CSS3-0f1e2d?style=flat&logo=css3&logoColor=1572B6" height="40" />
   <img src="https://img.shields.io/badge/JavaScript-0f1e2d?style=flat&logo=javascript&logoColor=F7DF1E" height="40" />
   <img src="https://img.shields.io/badge/Node.js-0f1e2d?style=flat&logo=node.js&logoColor=339933" height="40" />
+  <img src="https://img.shields.io/badge/Express-0f1e2d?style=flat&logo=express&logoColor=ffffff" height="40" />
   <img src="https://img.shields.io/badge/Electron-0f1e2d?style=flat&logo=electron&logoColor=47848F" height="40" />
   <img src="https://img.shields.io/badge/Sass-0f1e2d?style=flat&logo=sass&logoColor=CC6699" height="40" />
-  <img src="https://img.shields.io/badge/Express-0f1e2d?style=flat&logo=express&logoColor=ffffff" height="40" />
-  <img src="https://img.shields.io/badge/Git-0f1e2d?style=flat&logo=git&logoColor=F05032" height="40" />
 </p>
