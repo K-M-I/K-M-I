@@ -24,7 +24,7 @@
 <h3>🧠 Sobre mí</h3>
 
 <ul style="background-color:#1e1e1e; padding: 15px; border-radius: 10px; color: #c9d1d9;">
-  <li>🔭 Actualmente desarrollando herramientas de escritorio con <strong>Electron.js</strong>.</li>
+  <li>🔭 Actualmente desarrollando herramientas de escritorio y aplicaciones WEB.</li>
   <li>🌱 En proceso de perfeccionar el rendimiento y la experiencia de usuario en aplicaciones web y nativas.</li>
   <li>⚡ Me encanta escribir código limpio, modular y bien documentado.</li>
   <li>🎨 Minimalismo y funcionalidad son los pilares de mi enfoque de diseño.</li>
