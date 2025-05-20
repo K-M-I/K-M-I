@@ -15,12 +15,6 @@
   <a href="https://github.com/K-M-I" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0f1e2d?style=flat&logo=github&logoColor=ffffff" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0f1e2d?style=flat&logo=linkedin&logoColor=0A66C2" height="40" />
-  </a>
-  <a href="mailto:tuemail@ejemplo.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0f1e2d?style=flat&logo=gmail&logoColor=D14836" height="40" />
-  </a>
 </p>
 
 <!-- Separador -->
