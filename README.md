@@ -10,13 +10,13 @@
 <!-- Íconos de redes sociales -->
 <p align="center">
   <a href="https://github.com/tuusuario" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-00000000?style=flat&logo=github&logoColor=ffffff" height="50" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0f1e2d?style=flat&logo=github&logoColor=ffffff" height="50" />
   </a>
   <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00000000?style=flat&logo=linkedin&logoColor=0A66C2" height="50" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0f1e2d?style=flat&logo=linkedin&logoColor=0A66C2" height="50" />
   </a>
   <a href="mailto:tuemail@ejemplo.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-00000000?style=flat&logo=gmail&logoColor=D14836" height="50" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-0f1e2d?style=flat&logo=gmail&logoColor=D14836" height="50" />
   </a>
 </p>
 
@@ -34,12 +34,12 @@
 ### 🛠 Tecnologías que uso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-00000000?style=flat&logo=html5&logoColor=E34F26" height="50" />
-  <img src="https://img.shields.io/badge/CSS3-00000000?style=flat&logo=css3&logoColor=1572B6" height="50" />
-  <img src="https://img.shields.io/badge/JavaScript-00000000?style=flat&logo=javascript&logoColor=F7DF1E" height="50" />
-  <img src="https://img.shields.io/badge/Node.js-00000000?style=flat&logo=node.js&logoColor=339933" height="50" />
-  <img src="https://img.shields.io/badge/Electron-00000000?style=flat&logo=electron&logoColor=47848F" height="50" />
-  <img src="https://img.shields.io/badge/Sass-00000000?style=flat&logo=sass&logoColor=CC6699" height="50" />
+  <img src="https://img.shields.io/badge/HTML5-0f1e2d?style=flat&logo=html5&logoColor=E34F26" height="50" />
+  <img src="https://img.shields.io/badge/CSS3-0f1e2d?style=flat&logo=css3&logoColor=1572B6" height="50" />
+  <img src="https://img.shields.io/badge/JavaScript-0f1e2d?style=flat&logo=javascript&logoColor=F7DF1E" height="50" />
+  <img src="https://img.shields.io/badge/Node.js-0f1e2d?style=flat&logo=node.js&logoColor=339933" height="50" />
+  <img src="https://img.shields.io/badge/Electron-0f1e2d?style=flat&logo=electron&logoColor=47848F" height="50" />
+  <img src="https://img.shields.io/badge/Sass-0f1e2d?style=flat&logo=sass&logoColor=CC6699" height="50" />
 </p>
 
 ---
