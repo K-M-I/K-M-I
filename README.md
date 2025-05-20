@@ -36,21 +36,3 @@
   <img src="https://img.shields.io/badge/Electron-0f1e2d?style=flat&logo=electron&logoColor=47848F" height="40" />
   <img src="https://img.shields.io/badge/Sass-0f1e2d?style=flat&logo=sass&logoColor=CC6699" height="40" />
 </p>
-
----
-
-### 📊 Estadísticas y progreso
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-M-I&layout=compact&theme=radical" alt="Top Langs" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-M-I&show_icons=true&theme=radical" alt="GitHub stats" height="200"/>
-</p>
-
----
-
-<p align="center" style="color:#888">
-  Hecho con ❤️ por D'JSS
-</p>
